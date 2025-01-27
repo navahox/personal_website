@@ -412,7 +412,7 @@ video {
     display: flex;
     flex-direction: column;
     margin: auto;
-    gap: 1em;
+    gap: 2em;
 }
 /* about text */
 .about p {
