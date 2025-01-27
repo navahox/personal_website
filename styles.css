@@ -363,10 +363,6 @@ h5 {
     flex-wrap: wrap;
     justify-content: flex-end;
 }
-/*  navbar in one position */
-.navbar {
-    position: absolute;
-}
 /* navbar */
 :root {
     --navbar-height: 100px; /* height for medium screens */
