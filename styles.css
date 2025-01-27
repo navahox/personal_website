@@ -436,4 +436,7 @@ video {
     :root {
         --navbar-height: 200px; /* height for smaller screens */
     }
+    .navbar {
+        position: absolute;
+    }
 }
